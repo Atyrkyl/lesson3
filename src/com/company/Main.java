@@ -15,9 +15,8 @@ public class Main {
         names[0] = "Mike";
         names[1] = "John";
         names[2] = "Kate";
+//        sj;lkafd;
         for (String person : names){
-
-
 
         switch (person){
             case "Mike" :
